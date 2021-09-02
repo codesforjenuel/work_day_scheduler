@@ -10,5 +10,8 @@ here is a screenshot of the app with an open console so you can see it was succe
 
 ![screenshot](./images/screen1.png)
 
+here is a link to my repository
+
+https://codesforjenuel.github.io/work_day_scheduler/
 
 
